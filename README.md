@@ -17,3 +17,19 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Capturas
+![image](https://github.com/nkmserrano/Act5_disenos_0973/assets/143548150/90d3b05e-f8d6-40cc-8f13-e4387c56ef32)
+![image](https://github.com/nkmserrano/Act5_disenos_0973/assets/143548150/42ee524e-0d32-4295-9953-1b46d6692c67)
+![image](https://github.com/nkmserrano/Act5_disenos_0973/assets/143548150/da35e694-ea37-4d96-a56e-d943b1a08738)
+![image](https://github.com/nkmserrano/Act5_disenos_0973/assets/143548150/3637c1ec-d736-4bb0-a459-08731ce58fac)
+
+
+
+
+
+## Links de Referencia
+- https://www.youtube.com/watch?v=YqBWWwLkrOQ
+- https://blog.logrocket.com/flutter-layouts-guide-margins-padding/
+- https://api.flutter.dev/flutter/material/Icons-class.html
+- https://api.flutter.dev/flutter/material/ListTile-class.html
