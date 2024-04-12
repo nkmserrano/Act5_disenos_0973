@@ -74,7 +74,7 @@ class Pagina4 extends StatelessWidget {
                 ),
                 Card(
                   child: ListTile(
-                    title: Text('Permisos'),
+                    title: Text('Permisos', style: TextStyle(fontSize: 20)),
                     trailing: Icon(Icons.check_circle_outline_rounded),
                   ),
                 ),
